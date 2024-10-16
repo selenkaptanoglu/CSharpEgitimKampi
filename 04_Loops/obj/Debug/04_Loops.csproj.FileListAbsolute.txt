@@ -1,0 +1,7 @@
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

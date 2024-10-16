@@ -1,0 +1,7 @@
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
