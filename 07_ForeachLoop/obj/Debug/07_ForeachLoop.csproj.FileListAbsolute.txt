@@ -1,0 +1,7 @@
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
