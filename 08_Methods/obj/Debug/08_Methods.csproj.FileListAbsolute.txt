@@ -1,0 +1,7 @@
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb
