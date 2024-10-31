@@ -1,0 +1,7 @@
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\bin\Debug\09_dAT.exe.config
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\bin\Debug\09_dAT.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\bin\Debug\09_dAT.pdb
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\obj\Debug\09_DatabaseProject.csproj.AssemblyReference.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\obj\Debug\09_dAT.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\09_dAT\obj\Debug\09_dAT.pdb

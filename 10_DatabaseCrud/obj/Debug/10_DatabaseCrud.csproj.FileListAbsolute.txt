@@ -1,0 +1,7 @@
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+D:\murat yücedag_cshrapegitimkampi\CShrapEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
